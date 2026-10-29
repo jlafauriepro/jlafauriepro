@@ -1,6 +1,6 @@
 # Julián Lafaurie — QA Engineer
 
-Hola 👋 Soy Julián, QA Engineer egresado del bootcamp de TripleTen. Me especializo en automatización de pruebas con Python y Selenium, y en testing de APIs.
+Hola 👋 Soy Julián, QA Engineer egresado del bootcamp de TripleTen. Diseño y automatizo pruebas con Python usando Selenium para UI y Requests para APIs. Aplico clases de equivalencia, análisis de valores límite y el patrón Page Object Model.
 
 ---
 
