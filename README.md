@@ -28,3 +28,14 @@ Automatización de pruebas para el endpoint de creación de kits, usando clases 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/julianlafaurie)
 - 📧 jlafauriepro@gmail.com
+
+---
+
+## 🚀 En aprendizaje
+
+Actualmente expandiendo el stack hacia:
+
+- **Playwright** — automatización moderna con soporte multi-browser
+- **SQL** — consultas y validación de datos en base de datos
+- **GitHub Actions** — integración continua (CI) para correr pruebas automatizadas
+- **Docker** — entornos de prueba reproducibles
